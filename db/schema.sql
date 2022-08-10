@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS socket_db;
+CREATE DATABASE socket_db;
